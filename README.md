@@ -2,11 +2,21 @@
 
 Bienvenue sur mon portfolio GitHub ! Découvrez mes projet :
 
-### [Projet Principal - Nom du Projet](https://github.com/amartuvshinpurevbaatar/Portfolio/tree/11332b3c41464a41356289eb14854f0b93461601/Logiciel_Demande_Terasse))
-![Capture d'écran du Projet Principal](lien_vers_capture_d_ecran_principal)
+### [Logiciel-Demande de terrasse](https://github.com/amartuvshinpurevbaatar/Portfolio/tree/11332b3c41464a41356289eb14854f0b93461601/Logiciel_Demande_Terasse)
+!Logiciel de Gestion des Demandes de Terrasse
 
-Ce projet représente une réalisation majeure où j'ai utilisé des technologies de pointe pour surmonter des défis complexes. La description captivante met en lumière les compétences acquises et les solutions innovantes apportées. Explorez ce projet pour découvrir mon expertise et ma passion pour le développement.
+**But du Logiciel :**
 
-N'hésitez pas à explorer mes autres répertoires pour découvrir mes projets en cours, mes contributions à des projets open source, et en savoir plus sur mon parcours et mes ambitions dans le domaine du développement.
+Le logiciel a été développé dans le but de simplifier le processus d'acceptation des devis émanant de personnes cherchant à louer un espace pour leur commerce. Les utilisateurs peuvent soumettre leurs demandes via cette plateforme, offrant ainsi au maire de la ville la possibilité d'examiner et d'approuver les demandes en conformité avec les réglementations locales.
 
-Merci de visiter mon portfolio ! N'hésitez pas à ouvrir des issues, proposer des améliorations, ou à me contacter pour toute collaboration potentielle.
+**Caractéristiques Techniques :**
+
+- **Serialisation :** La sérialisation en Java est mise en œuvre pour faciliter l'écriture et la récupération des données. Cette technique garantit une gestion efficace des informations, que ce soit pour enregistrer les demandes des utilisateurs ou pour récupérer des données pertinentes lors du processus d'approbation.
+
+- **Design Pattern - Itération :** Le logiciel est construit en utilisant le design pattern d'itération. Cette approche offre une gestion souple et itérative des demandes, facilitant les modifications ou les mises à jour du processus d'approbation.
+
+**Langage de Programmation :**
+
+Le logiciel est entièrement développé en Java, un langage réputé pour sa polyvalence, sa portabilité et sa robustesse. L'utilisation de Java offre une base solide pour la gestion des demandes de terrasse, permettant une expérience utilisateur fluide et sécurisée.
+
+Explorez ce logiciel pour une gestion transparente et efficace des demandes de terrasse pour les commerces locaux.

@@ -1,19 +1,12 @@
-Portfolio GitHub
+# Portfolio GitHub
 
-Bienvenue sur mon portfolio GitHub ! Je suis enthousiaste de partager avec vous mes projets et réalisations. Explorez les différents répertoires pour découvrir mes compétences, mes passions et mon parcours dans le monde du développement.
-Projets en Vedette
-Nom du Projet 1
+Bienvenue sur mon portfolio GitHub ! Découvrez en vedette :
 
+## [Projet Principal - Nom du Projet](lien_vers_le_projet_principal)
+![Capture d'écran du Projet Principal](lien_vers_capture_d_ecran_principal)
 
-Description brève et captivante du projet 1. Mettez en avant les technologies utilisées, les défis surmontés et les compétences acquises.
-Nom du Projet 2
+Ce projet représente une réalisation majeure où j'ai utilisé des technologies de pointe pour surmonter des défis complexes. La description captivante met en lumière les compétences acquises et les solutions innovantes apportées. Explorez ce projet pour découvrir mon expertise et ma passion pour le développement.
 
+N'hésitez pas à explorer mes autres répertoires pour découvrir mes projets en cours, mes contributions à des projets open source, et en savoir plus sur mon parcours et mes ambitions dans le domaine du développement.
 
-Description brève et captivante du projet 2. Mettez en avant les technologies utilisées, les défis surmontés et les compétences acquises.
-Projets en Cours
-Nom du Projet 3
-
-Description brève du projet en cours, expliquant les objectifs, les technologies utilisées et l'état d'avancement actuel.
-Contributions Open Source
-
-En plus de mes projets personnels, j'apporte également ma contribution à des projets open source. Cela me permet d'apprendre, de collaborer avec d'autres développeurs talentueux et de contribuer à la communauté.
+Merci de visiter mon portfolio ! N'hésitez pas à ouvrir des issues, proposer des améliorations, ou à me contacter pour toute collaboration potentielle.

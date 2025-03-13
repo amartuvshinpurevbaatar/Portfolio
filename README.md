@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portfolio GitHub ! Découvrez mes projet :
 
-## Web Application - Gestion de dépense ( En cours de développement par l'équipe LAMFAA)
+## Web Application - Gestion de dépense
 ### On vous aide à gérer mieux votre argent
 
 [Maqeutte Fonctionnel Complet](https://www.figma.com/file/ijPGKokfUxJ064G1LNCnz8/Maquette-Final?type=design&node-id=0%3A1&mode=design&t=eSzEY6DlF98F9h4q-1)
@@ -10,6 +10,8 @@ Bienvenue sur mon portfolio GitHub ! Découvrez mes projet :
 **But du Logiciel :**
 
 L'application vise à vous assister dans l'établissement et la réalisation de vos objectifs financiers. Elle vous accompagne dans la planification du remboursement de vos crédits, la gestion de vos dépenses, tout en vous prodiguant des conseils avisés pour une meilleure gestion de votre argent.
+
+**Framework - VueJS, PHP**
 
 ## [Logiciel-Demande de terrasse](https://github.com/amartuvshinpurevbaatar/Portfolio/tree/11332b3c41464a41356289eb14854f0b93461601/Logiciel_Demande_Terasse)
 ### Logiciel de Gestion des Demandes de Terrasse
@@ -42,7 +44,5 @@ Le logiciel d'enchères a été développé pour permettre aux clients de créer
 - **Design Pattern -** Observer : Le design pattern Observer est utilisé pour permettre aux participants de suivre en temps réel les changements d'état des enchères et recevoir des notifications instantanées.
 
 - **Multi-threading -** La programmation multi-threading est employée pour optimiser la gestion des enchères, permettant une expérience utilisateur fluide même lors de la gestion simultanée de plusieurs enchères.
-
-**Langage de Programmation :**
 
 Le logiciel est entièrement développé en Java

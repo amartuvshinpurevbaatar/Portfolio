@@ -11,7 +11,7 @@ Bienvenue sur mon portfolio GitHub ! Découvrez mes projet :
 
 L'application vise à vous assister dans l'établissement et la réalisation de vos objectifs financiers. Elle vous accompagne dans la planification du remboursement de vos crédits, la gestion de vos dépenses, tout en vous prodiguant des conseils avisés pour une meilleure gestion de votre argent.
 
-**Framework - VueJS, PHP**
+**Technologies - VueJS, PHP**
 
 ## [Logiciel-Demande de terrasse](https://github.com/amartuvshinpurevbaatar/Portfolio/tree/11332b3c41464a41356289eb14854f0b93461601/Logiciel_Demande_Terasse)
 ### Logiciel de Gestion des Demandes de Terrasse

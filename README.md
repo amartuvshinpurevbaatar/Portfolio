@@ -1,6 +1,23 @@
 # Portfolio GitHub
 
-Bienvenue sur mon portfolio GitHub ! Découvrez mes projet :
+# Bienvenue sur mon portfolio GitHub ! 🚀  
+
+Découvrez mes projets en cours et réalisés.  
+
+## Site Vitrine & Système d'Information pour Mini-Crèches (En cours)  
+
+### Contexte  
+L'entreprise regroupe **quatre mini-crèches**, chacune employant environ cinq personnes, soit un total d’une vingtaine de salariés.  
+Actuellement, elle ne dispose **ni d’un site internet ni d’un système d’information numérique**, toutes les opérations étant encore gérées sur papier.  
+
+### Objectif du projet  
+Développer une solution complète comprenant :  
+**Un site vitrine** : améliorer la visibilité des mini-crèches sur le web.  
+**Un système d’information** : faciliter la gestion administrative et des ressources humaines.  
+
+### Technologies utilisées  
+**Frontend** : Angular  
+**Backend** : Spring  
 
 ## Web Application - Gestion de dépense
 ### On vous aide à gérer mieux votre argent
